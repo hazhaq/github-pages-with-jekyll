@@ -1,10 +1,10 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Remy the Rat: The Autobiography
+author: Remy (The Rat)
+theme: minima
+email: remy@gustoinc.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Ratatouille is a summer vegetable stew that originated as a French Provencal dish from Nice.
+  It's a stew of zucchini, peppers, tomatoes and eggplant, with herbs and spices and some onions and garlic usually thrown in for good measure.
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
