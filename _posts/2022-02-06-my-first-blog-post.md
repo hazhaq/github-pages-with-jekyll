@@ -1,6 +1,6 @@
  ---
 title: "Remy (The Rat) Ratatouille "
-date: YYYY-MM-DD
+date: 2022-06-02
 ---
 
 Although each of the world's countries
